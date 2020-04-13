@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import Navigation from "./navigation";
 import Header from "./header";
-//import Features from './features';
+import Prices from "./coingecko";
 import About from "./about";
 import Services from "./services";
 import Gallery from "./gallery";
@@ -39,6 +39,7 @@ export class App extends Component {
         <Navigation />
         <Header data={this.state.resumeData.Header} />
         <About data={this.state.resumeData.About} />
+        <Prices />
         <Services data={this.state.resumeData.Services} />
         <Gallery />
         <Testimonials data={this.state.resumeData.Testimonials} />

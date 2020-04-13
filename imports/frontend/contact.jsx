@@ -107,8 +107,10 @@ export class Contact extends Component {
                       </a>
                     </li>
                     <li>
-                      <a href={this.props.data ? this.props.data.youtube : "/"}>
-                        <i className="fa fa-youtube"></i>
+                      <a
+                        href={this.props.data ? this.props.data.instagram : "/"}
+                      >
+                        <i className="fa fa-instagram"></i>
                       </a>
                     </li>
                   </ul>
@@ -120,10 +122,8 @@ export class Contact extends Component {
         <div id="footer">
           <div className="container text-center">
             <p>
-              &copy; 2020 TruthX. Design by{" "}
-              <a href="http://www.templatewire.com" rel="nofollow">
-                Vectormike
-              </a>
+              TruthXchanges &copy; Copyright {new Date().getFullYear()}. All
+              Right Reserved
             </p>
           </div>
         </div>
