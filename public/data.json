@@ -19,22 +19,22 @@
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
+            "icon": "fa fa-coins fa-5x",
             "name": "Buy and Sell Cryptocurrencies",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cart-arrow-down",
+            "icon": "fa fa-wallet fa-5x",
             "name": "Exchange E-currencies",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-cloud-download",
+            "icon": "fa fa-money-check fa-5x",
             "name": "Exchange Giftcards",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         },
         {
-            "icon": "fa fa-language",
+            "icon": "fa fa-money-bill-wave-alt fa-5x",
             "name": "ROI-Return of Investment",
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
         }
@@ -71,9 +71,9 @@
         }
     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/team/ceo.jpg",
+            "name": "Paul Ubong",
+            "job": "Director/CEO"
         },
         {
             "img": "img/team/02.jpg",
@@ -97,6 +97,6 @@
         "email": "truththe654@gmail.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",
-        "youtube": "youtube.com"
+        "instagram": "instagram.com/truthxchanges/"
     }
 }
