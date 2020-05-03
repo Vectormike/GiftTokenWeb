@@ -9,20 +9,25 @@ export class features extends Component {
             <h2>Download TruthX App</h2>
             <p>
               Feel the better experience of TruthX as you download our mobile
-              application to your smart device. Available for Android and iOS.
+              application to your smart device. Available for iOS and Android.
             </p>
-          </div>
-          <div className="row">
-            {this.props.data
-              ? this.props.data.map((d) => (
-                  <div className="col-xs-6 col-md-3">
-                    {" "}
-                    <i className={d.icon}></i>
-                    <h3>{d.title}</h3>
-                    <p>{d.text}</p>
-                  </div>
-                ))
-              : "Loading..."}
+            <div className="text-center mobile_apps">
+              <p>You can also download the app and try it for yourself</p>
+              <div className="col-sm-6 col-md-6 col-lg-6">
+                <a class="button" href="#">
+                  <img src="img/apple.jpg" className="img-responsive" alt="" />
+                </a>
+              </div>
+              <div className="col-sm-6 col-md-6 col-lg-6">
+                <a className="button" href="#">
+                  <img
+                    src="img/android.png"
+                    className="img-responsive"
+                    alt=""
+                  />
+                </a>
+              </div>
+            </div>
           </div>
         </div>
       </div>
