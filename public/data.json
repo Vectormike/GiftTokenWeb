@@ -1,37 +1,36 @@
 {
     "Header": {
         "title": "TruthX",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "paragraph": "A more reliable way to sell/trade gift cards and cryptocurrencies."
     },
     "About": {
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Our trust is yours.",
+            "Better Customer service.",
+            "Congruent culture.",
+            "Always. Consistency is our weapon."
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "A better rate.",
+            "Payment speed.",
+            "Payment option."
         ]
     },
     "Services": [{
             "icon": "fa fa-coins fa-5x",
             "name": "Buy and Sell Cryptocurrencies",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "We are buy and sell cryptocurrencies of any kind. Just holla if you've got."
         },
         {
             "icon": "fa fa-money-check fa-5x",
-            "name": "Exchange Giftcards",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Exchange Gift cards",
+            "text": "We trade any gift card and our payment is fast!"
         },
         {
             "icon": "fa fa-money-bill-wave-alt fa-5x",
             "name": "ROI-Return of Investment",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Invest with as low as N20,000 and get an amazing 20% interest. BOOM!"
         }
     ],
     "Testimonials": [{
@@ -66,26 +65,10 @@
         }
     ],
     "Team": [{
-            "img": "img/team/ceo.jpg",
-            "name": "Paul Ubong",
-            "job": "Director/CEO"
-        },
-        {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
-        }
-    ],
+        "img": "img/team/ceo.jpg",
+        "name": "Paul Ubong",
+        "job": "Director/CEO"
+    }],
     "Contact": {
         "address": "Uyo, Akwa-Ibom",
         "phone": "+234 907 413 2813",
