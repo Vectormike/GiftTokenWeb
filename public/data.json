@@ -1,15 +1,15 @@
 {
     "Header": {
-        "title": "TruthX",
+        "title": "Sell Gift Cards For Any Currency",
         "paragraph": "A more reliable way to sell/trade gift cards and cryptocurrencies."
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "The business of Gift card exchange in Nigeria has gotten on the high and we are providing a better service to our customers. With congruent culture, we strive to deliver the best rates for you. We accept iTunes, Amazon, Steam Wallet, Google Play, Apple Store, Macy's, Gamestop, Xbox, Vanilla, G2A, American Express (AMEX), OffGamers, Foot Locker, Visa, eBay, Walmart, Sephora, OneVanilla, Nordstrom, Target, JCPenney, Best Buy, Nike, Hotels.com, Play Station and others.",
         "Why": [
             "Our trust is yours.",
             "Better Customer service.",
             "Congruent culture.",
-            "Always. Consistency is our weapon."
+            "Consistency is our weapon."
         ],
         "Why2": [
             "A better rate.",
@@ -20,7 +20,7 @@
     "Services": [{
             "icon": "fa fa-coins fa-5x",
             "name": "Buy and Sell Cryptocurrencies",
-            "text": "We are buy and sell cryptocurrencies of any kind. Just holla if you've got."
+            "text": "We buy and sell cryptocurrencies of any kind. Just holla if you've got."
         },
         {
             "icon": "fa fa-money-check fa-5x",
@@ -35,40 +35,36 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
-            "text": "\"Experience was superb while trading TruthX. These guys payment speed is fast!\"",
+            "text": "\"Experience was superb while trading with TruthX. These guys payment speed is fast!\"",
             "name": "Victor Jonah"
         },
         {
             "img": "img/testimonials/02.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "name": "Chika Ezemeh"
         },
         {
             "img": "img/testimonials/03.jpg",
             "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
-        },
-        {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
-        },
-        {
-            "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "name": "Joseph Abia"
         }
     ],
     "Team": [{
-        "img": "img/team/ceo.jpg",
-        "name": "Paul Ubong",
-        "job": "Director/CEO"
-    }],
+            "img": "img/team/ceo.jpg",
+            "name": "Paul Ubong",
+            "job": "Director/CEO"
+        },
+        {
+            "img": "img/team/vectormike.jpeg",
+            "name": "Victor Jonah",
+            "job": "Software Developer"
+        },
+        {
+            "img": "img/team/ace.jpg",
+            "name": "Ace Graphix",
+            "job": "Product Designer"
+        }
+    ],
     "Contact": {
         "address": "Uyo, Akwa-Ibom",
         "phone": "+234 907 413 2813",
