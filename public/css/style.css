@@ -143,7 +143,7 @@ hr {
 	bottom: -1px;
 	width: 0;
 	height: 2px;
-	background: linear-gradient(to right, #181713 0%, #13120a 100%);
+	background: linear-gradient(to right, #f7ea76 0%, #f8e853 100%);
 	content: "";
 	transition: width 0.2s;
 }
@@ -262,22 +262,18 @@ a:focus,
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
-	background-color: #666;
+	background: url(../img/intro.jpg) center center no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
 }
 
-.intro .overlay {
-	background: rgba(0, 0, 0, 0.2);
-}
 
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
-	color: rgb(228, 227, 227);
-	font-size: 62px;
+	color: rgb(250, 243, 243);
+	font-size: 42px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
@@ -290,12 +286,12 @@ a:focus,
 }
 
 .intro p {
-	color: #fff;
+	color: rgb(250, 243, 243);
 	font-size: 22px;
 	font-weight: 700;
 	line-height: 30px;
 	margin: 0 auto;
-	margin-bottom: 60px;
+	margin-bottom: 80px;
 }
 
 header .intro-text {
