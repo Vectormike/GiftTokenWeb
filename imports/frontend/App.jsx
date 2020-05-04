@@ -42,9 +42,9 @@ export class App extends Component {
         <About data={this.state.resumeData.About} />
         <Prices />
         <Services data={this.state.resumeData.Services} />
+        <AppDownload />
         <Gallery />
         <Testimonials data={this.state.resumeData.Testimonials} />
-        <AppDownload />
         <Team data={this.state.resumeData.Team} />
         <Contact data={this.state.resumeData.Contact} />
       </div>
