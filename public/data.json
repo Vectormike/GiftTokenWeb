@@ -40,12 +40,12 @@
         },
         {
             "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"The best I have seen so far. Trust me.\"",
             "name": "Chika Ezemeh"
         },
         {
             "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "text": "\"Their payment was fast, rates are even better.\"",
             "name": "Joseph Abia"
         }
     ],
@@ -68,9 +68,9 @@
     "Contact": {
         "address": "Uyo, Akwa-Ibom",
         "phone": "+234 907 413 2813",
-        "email": "truththe654@gmail.com",
+        "email": "truthexchanges@gmail.com",
         "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "twitter": "twitter.com/truthexchanges",
         "instagram": "instagram.com/truthxchanges/"
     }
 }
