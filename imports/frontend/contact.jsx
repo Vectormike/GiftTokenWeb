@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 import Fade from "react-reveal/Fade";
 import Flash from "react-reveal/Flash";
 
@@ -135,8 +135,14 @@ export class Contact extends Component {
           <div id="footer">
             <div className="container text-center">
               <p>
-                TruthXchanges &copy; Copyright {new Date().getFullYear()}. All
-                Right Reserved
+                <Link to="/privacy">
+                  <p>Privacy</p>
+                </Link>
+                <p>TruthXchanges</p>
+                <p>
+                  &copy; Copyright {new Date().getFullYear()}. All Right
+                  Reserved.
+                </p>
               </p>
             </div>
           </div>
